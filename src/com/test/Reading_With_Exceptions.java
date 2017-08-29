@@ -15,8 +15,4 @@ public class Reading_With_Exceptions {
 
     }
 
-    public static String returnsString(String inputFileName) {
-        return inputFileName;
-
-    }
 }
